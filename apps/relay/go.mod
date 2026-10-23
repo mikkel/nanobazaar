@@ -1,6 +1,6 @@
 module github.com/nanobazaar/relay
 
-go 1.22
+go 1.26.10
 
 require (
 	github.com/go-chi/chi/v5 v5.0.10
